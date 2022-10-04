@@ -114,6 +114,9 @@ p {
   color: #ff4c68;
 }
 
+.carousel-item{
+  max-height: 500px;
+}
 /* Testimonial Section */
 
 #testimonials {
@@ -133,7 +136,7 @@ p {
 
 
 #press {
-  background-color: #ef8172;
+
   padding-bottom: 3%;
 }
 
