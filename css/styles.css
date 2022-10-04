@@ -12,6 +12,12 @@ p {
   color: #8f8f8f;
 }
 
+a{
+  text-decoration: none;
+  color: #fff;
+}
+
+
 /* Headings */
 
 .big-heading {
@@ -43,6 +49,9 @@ p {
 }
 
 /* Navigation Bar */
+nav a{
+  text-transform: uppercase;
+}
 
 .navbar {
   padding: 0 0 4.5rem;
@@ -114,26 +123,13 @@ p {
   color: #ff4c68;
 }
 
-.carousel-item{
-  max-height: 500px;
-}
-/* Testimonial Section */
 
-#testimonials {
-  background-color: #ef8172;
-}
 
-.testimonial-text {
-  font-size: 3rem;
-  line-height: 1.5;
+/* Publications Section */
+#publications a {
+  text-decoration: none;
+  color: #fff;
 }
-
-.testimonial-image {
-  width: 10%;
-  border-radius: 100%;
-  margin: 20px;
-}
-
 
 #press {
 
